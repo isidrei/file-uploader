@@ -11,7 +11,7 @@
 <body>
 
     <h1 style="color:rgb(0, 0, 0);font-size:45px;"> &nbsp; &nbsp; Registrations </h1>
-    
+    &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<input type="submit" value="Add new registration" class="btn btn-secondary btn-lg"  required/> 
     <br>
     <br>
 <center>
@@ -64,5 +64,5 @@
 
 
 
-    </UTF-8>
+    
 </html>
